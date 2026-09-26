@@ -1,0 +1,15 @@
+agentic-browser
+Copyright (c) 2026 Alexander Walton
+
+Licensing layout
+
+1. Files written for this project are licensed under the Mozilla Public License 2.0.
+   The licence text is in LICENSE.
+2. Files imported from the Chromium open source project keep the Chromium BSD-3-Clause
+   licence and their original copyright notices. Chromium's LICENSE file will be kept
+   unchanged at the path it occupies upstream.
+3. Third-party components bundled with Chromium keep their own licences, recorded in their
+   LICENSE and README.chromium files. Each release publishes a generated credits page and the
+   complete corresponding source for every binary it ships.
+
+The upstream Chromium commit each release is based on will be recorded here.
