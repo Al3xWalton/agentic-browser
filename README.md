@@ -1,19 +1,22 @@
-# agentic-browser
+<p align="center"><strong>agentic-browser</strong> is an open-source browser built for AI agents to use.
+<p align="center">
+  <img src=".github/agentic-browser-splash.png" alt="agentic-browser splash" width="80%" />
+</p>
+</br>If you want the search engine built for AI agents, see <a href="https://github.com/Al3xWalton/agentic-search">agentic-search</a>.</p>
 
-An open-source web browser built for AI agents to use, based on the Chromium open source project.
+---
 
-AVA's agents read, click and write on the web. General-purpose browsers are built for people.
-This project is a browser built for an agent: fast, observable and controllable from a program.
+## Quickstart
 
-## Status
+agentic-browser is not released yet. There is nothing to install or build today.
+This section will hold the install and run commands for each platform once the
+first build ships.
 
-Early. No Chromium source has been imported yet. The first milestone is being planned.
+## Docs
 
-## Licence
+Documentation arrives with the first build. Until then, see [NOTICE](NOTICE)
+for how the project is licensed and what it is based on.
 
-- Code written for this project is licensed under the Mozilla Public License 2.0 (see `LICENSE`).
-- Chromium's own files, once imported, keep their BSD-3-Clause licence and all upstream notices.
-- Third-party components keep their own licences. See `NOTICE`.
+## License
 
-This project is not affiliated with, sponsored by or endorsed by Google.
-"Chromium" and "Chrome" are trademarks of Google LLC.
+MPL-2.0 for code written for this project. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
